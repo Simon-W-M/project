@@ -1,6 +1,6 @@
 ---
 title: "my__first_report"
-author: "SimonWM"
+author: "Mr Monkey"
 format: html
 editor: visual
 embed-resources: true
